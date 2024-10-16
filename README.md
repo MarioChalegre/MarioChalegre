@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou Willams Mario Chalegre</h1>
 <h3 align="center">Eu adoro trabalhar com dados</h3>
 
-- 🌱 Atualmente estou estudando Ciência de Dados **UNINASSAU**
+- 🌱 Atualmente estou estudando Ciência de Dados na **UNINASSAU**
 
 - 💬 Me pergunte sobre **Power BI, SQL, Python**
 
